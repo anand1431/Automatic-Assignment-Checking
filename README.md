@@ -1,0 +1,2 @@
+# Automatic-Assignment-Checking
+AUTOMATIC CHECKING MY FIRST PYTHON PROJECT
